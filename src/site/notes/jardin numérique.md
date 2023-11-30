@@ -9,7 +9,7 @@ Obsidian est un outil qui favorise le *jardinage* des notes. En écrivant une no
 
   
 
-Obsidian devient rapidement un outil personnel incontournable et nous développons au fur er à mesure que notre usage se déploit de nouvelles compétences pour le maintenir et le rendre encore plus productif
+Obsidian devient rapidement un outil personnel incontournable et nous développons au fur er à mesure que notre usage se déploie de nouvelles compétences pour le maintenir et le rendre encore plus productif
 
   
 
