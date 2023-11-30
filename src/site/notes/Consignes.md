@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Consignes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Consignes/"}
 ---
 
 
@@ -192,7 +192,7 @@ Leur proposer de les télécharger, activer et de les tester.
 
 S'ils le préfèrent, leur proposer de parcourir les chapitres du [[Mode d'emploi d'Obsidian\|mode d'emploi d'Obsidian]] et de s'arrêter aux passages qui les intéressent pour mettre en pratique ce qui vous est proposé dans ce guide.  
 
-# 2.5 Comment ce site a t-il été réalisé ?
+##  2.5 Comment ce site a t-il été réalisé ?
 
 La publication sur les serveurs d'Obsidian de ces notes a un coût mensuel non négligeable (plugins Obsidian Sync et Obsidian Publish).
 Il existe des [[publication des notes\|alternatives gratuites]]
