@@ -3,3 +3,5 @@
 ---
 
 blabla
+
+aller voir le [[yaml\|yaml]]
