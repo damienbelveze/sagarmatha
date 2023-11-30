@@ -21,6 +21,8 @@ bibliography: references.bib
 biblio-style: ieee.csl
 
 ___
+Depuis la version 4.1 d'Obsidian, les champs YAML sont des propriétés que l'on ajoute avec la combinaison de touches MAJ+;
+
 
 Pandoc traite l'entête Yaml notamment pour faire la page de titre. 
 Cet entête peut faire partie du document ou bien lui être associé sous la forme d'un document indépendant en format .yaml 
